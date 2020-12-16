@@ -165,7 +165,6 @@ KEYBITS = 192
 ALLOWED_VERSIONS = ['v1', 'v2']
 DEFAULT_VERSION = 'v1'
 
-BASEURL = 'https://egc-app-julsoutos.herokuapp.com'
 
 APIS = {}
 
